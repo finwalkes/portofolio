@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/finwalkes/portofolio/static/css/main.b1fbacb9.css",
+    "main.js": "/finwalkes/portofolio/static/js/main.11f851dc.js",
+    "static/media/heros.jpg": "/finwalkes/portofolio/static/media/heros.5fa50eaf5bddf82b1fe1.jpg",
+    "static/media/laptop.gif": "/finwalkes/portofolio/static/media/laptop.edcd0978b90486300500.gif",
+    "static/media/environment.jpg": "/finwalkes/portofolio/static/media/environment.443f5dff1a429e65e885.jpg",
+    "static/media/agriculture.jpg": "/finwalkes/portofolio/static/media/agriculture.c35cec0e9ed0bb7aec81.jpg",
+    "static/media/finance.jpg": "/finwalkes/portofolio/static/media/finance.050b521a99fcd2e1f973.jpg",
+    "static/media/healthcare.jpg": "/finwalkes/portofolio/static/media/healthcare.5a1a273081a921f777fe.jpg",
+    "static/media/it.jpg": "/finwalkes/portofolio/static/media/it.a7138ba9a4fe03f122d3.jpg",
+    "static/media/bagus1.jpg": "/finwalkes/portofolio/static/media/bagus1.3d6a759e828c33f72288.jpg",
+    "index.html": "/finwalkes/portofolio/index.html",
+    "main.b1fbacb9.css.map": "/finwalkes/portofolio/static/css/main.b1fbacb9.css.map",
+    "main.11f851dc.js.map": "/finwalkes/portofolio/static/js/main.11f851dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1fbacb9.css",
+    "static/js/main.11f851dc.js"
+  ]
+}
